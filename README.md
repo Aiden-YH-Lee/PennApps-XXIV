@@ -1,6 +1,4 @@
-# ⚡️ esinx/webstack
-
-> The (very opinionated) DX-first webstack monorepo template for the modern web designed by esinx.
+# ⚡️ webstack
 
 - 🔌 Fullstack TypeScript
   - Backend runs on **NodeJS** with **SWC** for compilation
